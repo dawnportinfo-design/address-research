@@ -104,6 +104,23 @@ export const addressInformationEngineeringLayers = [
     ],
     coreQuestion: "How should address information remain fresh, consistent enough, and available across local-first and global systems?",
     firstDeliverable: "Distributed address-state model with freshness roots, source versions, conflict states, and recovery policy."
+  },
+  {
+    id: "congestion-performance-theory",
+    japaneseTitle: "渋滞・性能",
+    purpose: "Measure and optimize congestion, queues, bottlenecks, and throughput in address information systems.",
+    fields: [
+      "address-congestion-theory",
+      "address-queueing-theory",
+      "address-throughput-theory",
+      "address-api-congestion",
+      "address-input-congestion",
+      "address-mapping-delay-theory",
+      "address-cache-congestion",
+      "address-zkp-generation-congestion"
+    ],
+    coreQuestion: "Where does address information flow become congested, and how can systems predict and reduce delay?",
+    firstDeliverable: "Address Congestion Index and bottleneck taxonomy for API, input, mapping, cache, sync, and proof flows."
   }
 ];
 

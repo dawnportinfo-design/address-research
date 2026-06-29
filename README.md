@@ -17,6 +17,7 @@ It organizes address research into seven layers:
 - Quality theory.
 - Computation theory.
 - Distributed infrastructure.
+- Congestion and performance theory.
 
 See [Address Information Engineering](docs/foundations/address-information-engineering.md).
 

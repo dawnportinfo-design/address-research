@@ -8,6 +8,7 @@
    - [Address Formal Language Theory](docs/foundations/address-formal-language-theory.md)
    - [Address Morphism Theory](docs/foundations/address-morphism-theory.md)
    - [Address Morphism Expansion Program](docs/foundations/address-morphism-expansion-program.md)
+   - [Address Congestion Theory](docs/foundations/address-congestion-theory.md)
    - [Address Distributed ID Theory](docs/foundations/address-distributed-id-theory.md)
    - [Address Privacy Proof Theory](docs/foundations/address-privacy-proof-theory.md)
    - [International Address Structure Theory](docs/foundations/international-address-structure.md)

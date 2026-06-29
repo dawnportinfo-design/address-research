@@ -6,7 +6,7 @@ import {
   validateAddressInformationEngineering
 } from "../src/addressInformationEngineering.js";
 
-test("address information engineering has seven coherent layers", () => {
+test("address information engineering has coherent layers", () => {
   assert.equal(validateAddressInformationEngineering().length, 0);
   assert.deepEqual(
     addressInformationEngineeringLayers.map((layer) => layer.id),
@@ -17,7 +17,8 @@ test("address information engineering has seven coherent layers", () => {
       "temporal-theory",
       "quality-theory",
       "computation-theory",
-      "distributed-infrastructure"
+      "distributed-infrastructure",
+      "congestion-performance-theory"
     ]
   );
 });
@@ -44,4 +45,3 @@ test("core AMT dependencies are represented in the engineering map", () => {
     assert.ok(fields.has(required), `${required} should exist`);
   }
 });
-

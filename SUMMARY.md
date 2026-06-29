@@ -6,6 +6,7 @@
    - [Address Data Structure Theory](docs/foundations/address-data-structure-theory.md)
    - [Address Formal Language Theory](docs/foundations/address-formal-language-theory.md)
    - [Address Morphism Theory](docs/foundations/address-morphism-theory.md)
+   - [Address Morphism Expansion Program](docs/foundations/address-morphism-expansion-program.md)
    - [Address Distributed ID Theory](docs/foundations/address-distributed-id-theory.md)
    - [Address Privacy Proof Theory](docs/foundations/address-privacy-proof-theory.md)
    - [International Address Structure Theory](docs/foundations/international-address-structure.md)
@@ -23,6 +24,7 @@
 4. Comparative and Governance
    - [Comparative Administration, Geopolitics, and Logistics](docs/comparative/admin-geopolitics-logistics.md)
    - [Research Program](docs/governance/research-program.md)
+   - [Research Field Registry](docs/governance/research-field-registry.md)
 
 ## Publication Shape
 
@@ -34,4 +36,3 @@ The repository should produce:
 - safety boundaries
 - implementation contracts
 - cross-repository compatibility matrices
-

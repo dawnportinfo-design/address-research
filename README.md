@@ -29,6 +29,12 @@ This repository studies addresses as:
 - Address privacy proof theory: zero-knowledge predicates for existence, inclusion, consent, and validity.
 - International address structure theory: country models, administrative hierarchy, geopolitical constraints, logistics data engineering, normalization, and database foundations.
 
+### Address Morphism Expansion
+
+Address Morphism Theory is the core theory. The next research layer adds topology, category theory, algebra, semantics, information theory, error propagation, metric spaces, isomorphism, reversible and irreversible morphisms, probabilistic morphisms, machine translation, knowledge graphs, and temporal address theory.
+
+The repository tracks these as a structured research program rather than a loose idea list. See [Address Morphism Expansion Program](docs/foundations/address-morphism-expansion-program.md) and [Research Field Registry](docs/governance/research-field-registry.md).
+
 ### Applications
 
 - Address UX standard design: forms, autocomplete, error recovery, and cognitive load.
@@ -64,4 +70,3 @@ npm test
 ```
 
 The initial tests verify that every research area has an owner layer, publication role, safety boundary, and relationship to the wider AGID ecosystem.
-

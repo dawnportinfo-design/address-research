@@ -4,6 +4,22 @@ Address Research is a research map for treating addresses as computable, verifia
 
 The repository is intentionally broader than a single paper. It organizes foundational theories, applied protocols, implementation science, and governance questions around address data, address identifiers, postal systems, logistics, privacy proofs, and international interoperability.
 
+## Address Information Engineering
+
+The umbrella discipline is **Address Information Engineering**: the study of how addresses can be represented, transformed, verified, synchronized, protected, compressed, searched, and used as public-interest information infrastructure.
+
+It organizes address research into seven layers:
+
+- Mathematics and information theory.
+- Data models.
+- Spatial theory.
+- Temporal theory.
+- Quality theory.
+- Computation theory.
+- Distributed infrastructure.
+
+See [Address Information Engineering](docs/foundations/address-information-engineering.md).
+
 ## Why This Exists
 
 Addresses are often treated as text fields. That is too weak for global delivery, public infrastructure, identity proofing, privacy-preserving sharing, postal-code design, machine handoff, and cross-border commerce.

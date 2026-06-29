@@ -3,6 +3,7 @@
 ## Research Map
 
 1. Foundations
+   - [Address Information Engineering](docs/foundations/address-information-engineering.md)
    - [Address Data Structure Theory](docs/foundations/address-data-structure-theory.md)
    - [Address Formal Language Theory](docs/foundations/address-formal-language-theory.md)
    - [Address Morphism Theory](docs/foundations/address-morphism-theory.md)

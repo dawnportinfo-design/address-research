@@ -1,0 +1,13 @@
+{
+  "name": "address-research",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Research map for computable, verifiable, privacy-aware address infrastructure.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "verify": "npm test"
+  },
+  "license": "MIT"
+}
+

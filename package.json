@@ -5,9 +5,9 @@
   "description": "Research map for computable, verifiable, privacy-aware address infrastructure.",
   "type": "module",
   "scripts": {
+    "evaluate": "node scripts/printEvaluation.js",
     "test": "node --test tests/*.test.js",
     "verify": "npm test"
   },
   "license": "MIT"
 }
-

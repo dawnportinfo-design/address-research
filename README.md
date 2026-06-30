@@ -32,6 +32,8 @@ This repository separates:
 
 See [Research Roadmap](docs/governance/research-roadmap.md), [Verification Claims](docs/governance/verification-claims.md), and [AMT / ZK / AGID Compatibility](docs/foundations/amt-zk-agid-compatibility.md).
 
+The current repository evaluation and next goals are tracked in [Research Evaluation and Goals](docs/governance/research-evaluation-and-goals.md).
+
 ## Why This Exists
 
 Addresses are often treated as text fields. That is too weak for global delivery, public infrastructure, identity proofing, privacy-preserving sharing, postal-code design, machine handoff, and cross-border commerce.
@@ -95,6 +97,7 @@ Do not store raw personal addresses, recipient data, private keys, ZK witnesses,
 
 ```bash
 npm test
+npm run evaluate
 ```
 
 The initial tests verify that every research area has an owner layer, publication role, safety boundary, and relationship to the wider AGID ecosystem.

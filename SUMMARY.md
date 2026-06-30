@@ -30,6 +30,7 @@
    - [Research Field Registry](docs/governance/research-field-registry.md)
    - [Research Roadmap](docs/governance/research-roadmap.md)
    - [Verification Claims](docs/governance/verification-claims.md)
+   - [Research Evaluation and Goals](docs/governance/research-evaluation-and-goals.md)
 
 ## Publication Shape
 

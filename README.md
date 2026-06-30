@@ -65,6 +65,8 @@ Address Morphism Theory is the core theory. The next research layer adds topolog
 
 The repository tracks these as a structured research program rather than a loose idea list. See [Address Morphism Expansion Program](docs/foundations/address-morphism-expansion-program.md) and [Research Field Registry](docs/governance/research-field-registry.md).
 
+The computable foundation of AMT is now tracked as a six-field integration: graph theory, information theory, computational geometry, operations research, game-tree search, and Thomson-style spherical reference placement. See [Computable Address Morphism Theory](docs/foundations/computable-address-morphism-theory.md).
+
 ### Applications
 
 - Address UX standard design: forms, autocomplete, error recovery, and cognitive load.

@@ -7,6 +7,7 @@
    - [Address Data Structure Theory](docs/foundations/address-data-structure-theory.md)
    - [Address Formal Language Theory](docs/foundations/address-formal-language-theory.md)
    - [Address Morphism Theory](docs/foundations/address-morphism-theory.md)
+   - [Computable Address Morphism Theory](docs/foundations/computable-address-morphism-theory.md)
    - [Address Morphism Expansion Program](docs/foundations/address-morphism-expansion-program.md)
    - [Address Congestion Theory](docs/foundations/address-congestion-theory.md)
    - [AMT / ZK / AGID Compatibility](docs/foundations/amt-zk-agid-compatibility.md)

@@ -32,8 +32,8 @@ export const evaluationDimensions = [
     id: "formal-depth",
     title: "Formal Depth",
     target: 85,
-    score: () => 54,
-    diagnosis: "The repo names formal fields, but axioms, theorem statements, proofs, and counterexamples mostly belong in specialist repositories."
+    score: () => 58,
+    diagnosis: "The repo now defines a computable AMT foundation, but axioms, theorem statements, proofs, and counterexamples mostly belong in specialist repositories."
   },
   {
     id: "verification-maturity",

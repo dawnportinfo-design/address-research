@@ -8,7 +8,7 @@ The repository is intentionally broader than a single paper. It organizes founda
 
 The umbrella discipline is **Address Information Engineering**: the study of how addresses can be represented, transformed, verified, synchronized, protected, compressed, searched, and used as public-interest information infrastructure.
 
-It organizes address research into seven layers:
+It organizes address research into eight layers:
 
 - Mathematics and information theory.
 - Data models.
@@ -20,6 +20,17 @@ It organizes address research into seven layers:
 - Congestion and performance theory.
 
 See [Address Information Engineering](docs/foundations/address-information-engineering.md).
+
+## Research Discipline
+
+This repository separates:
+
+- taxonomy: what fields exist
+- theory: what each field claims
+- verification: which claims are tested, assumed, or still open
+- interoperability: how `address-research`, `address-morphism-theory`, `zk-address-predicates`, and `Address-Grid-ID` fit together
+
+See [Research Roadmap](docs/governance/research-roadmap.md), [Verification Claims](docs/governance/verification-claims.md), and [AMT / ZK / AGID Compatibility](docs/foundations/amt-zk-agid-compatibility.md).
 
 ## Why This Exists
 

@@ -9,6 +9,7 @@
    - [Address Morphism Theory](docs/foundations/address-morphism-theory.md)
    - [Address Morphism Expansion Program](docs/foundations/address-morphism-expansion-program.md)
    - [Address Congestion Theory](docs/foundations/address-congestion-theory.md)
+   - [AMT / ZK / AGID Compatibility](docs/foundations/amt-zk-agid-compatibility.md)
    - [Address Distributed ID Theory](docs/foundations/address-distributed-id-theory.md)
    - [Address Privacy Proof Theory](docs/foundations/address-privacy-proof-theory.md)
    - [International Address Structure Theory](docs/foundations/international-address-structure.md)
@@ -27,6 +28,8 @@
    - [Comparative Administration, Geopolitics, and Logistics](docs/comparative/admin-geopolitics-logistics.md)
    - [Research Program](docs/governance/research-program.md)
    - [Research Field Registry](docs/governance/research-field-registry.md)
+   - [Research Roadmap](docs/governance/research-roadmap.md)
+   - [Verification Claims](docs/governance/verification-claims.md)
 
 ## Publication Shape
 
